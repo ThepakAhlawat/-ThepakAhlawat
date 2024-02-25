@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
 
 
 <div id="badges">
@@ -16,17 +16,14 @@
 <img src="https://komarev.com/ghpvc/?username=ThepakAhlawat&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hey there!! 👋
+  Hi 👋, I'm 📩
 </h1>
 </div>
 
-<div align="center" >
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="280"/>
-  
-</div>
+![Screenshot 2024-02-26 011653](https://github.com/ThepakAhlawat/-ThepakAhlawat/assets/148857426/39fa4687-1e7a-4e23-8831-25bb3b03f796)
 
 
-![Screenshot 2024-02-26 004305](https://github.com/ThepakAhlawat/-ThepakAhlawat/assets/148857426/c7e8bcce-9e93-44db-a08e-ac7d97f86564)
+
 
 ---
 
